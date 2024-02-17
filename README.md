@@ -1,91 +1,51 @@
 # Mehmet-Pus
- ## I'm a Full Stack .Net Developer
+ ## I am a Full Stack .Net Developer
 
 <table>
     <tr>
         <td>My tech stack</td>
-        <td>I'm currently learning</td>
     </tr>
     <tr>
         <td>
             <ul>
                 <li>
-                    ASP.NET Core (WebAPI and MVC)
+                    ASP.NET Core (WebAPI)
                 </li>
                 <li>
-                    JavaScript & Typescript (Angular)
+                    Angular
                 </li>
                 <li>
-                    SQL Server, MongoDB, Redis, EntityFramework Core
+                    EntityFramework Core, PostgreSQL, Redis
                 </li>
                 <li>
                     Docker
                 </li>
             </ul>
         </td>
-        <td>
-            <ul>
-                <li>
-                    MS Azure (AZ-204)
-                </li>
-                <li>
-                    Unit Testing
-                </li>
-                <li>
-                    Advanced Programming With C#
-                </li>
-            </ul>
-        </td>
     </tr>
 </table>
 
-My Learning Progress: [<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pluralsight.svg" />][pluralsight]
-Algorithm Practice: [<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" />][hackerrank]
 
-## 🚴‍♀️ My hobbies
 
-- Cycling & Running
+## My hobbies
+
+- Running
 - Reading
-- Archery
+- Table Tennis
+- Chess
+- Playing Guitar
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/strava.svg" />][strava]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/garmin.svg" />][garmin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/goodreads.svg" />][goodreads]
 
-## 💬 Reach out to me
+## 💬 Reach me out
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/messenger.svg" />][facebook]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/skype.svg" />][skype]
 
-## 🗽 Stats
+## GitHub Statistics
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mehmet-pus&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 
-<details>
-    <summary>
-        GitHub Statistics
-    </summary>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sevcanalkan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-</details>
-<details>
-    <summary>
-        Most Used Languages
-    </summary>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevcanalkan&theme=vue"/>
-</details>
 
-![](https://komarev.com/ghpvc/?username=sevcanalkan&color=blueviolet)
+## GitHub Statistics
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-pus&theme=vue"/>
 
-[youtube]: https://www.youtube.com/channel/UCufWUY4x4uA2cxUT99mlLkg
-[pluralsight]: https://app.pluralsight.com/profile/sevcan-alkan
-[linkedin]: https://www.linkedin.com/in/sevcanalkan/
-[twitter]: https://twitter.com/Sevcan_ALKAN
-[hackerrank]: https://www.hackerrank.com/sevcanalkan
-[strava]: https://www.strava.com/athletes/9976167
-[garmin]: https://connect.garmin.com/modern/profile/SevcanALKAN
-[instagram]: https://www.instagram.com/sevcan.alkan/
-[discord]: https://discord.com/users/572035278064058398
-[facebook]: https://www.facebook.com/SevcanALKANN/
-[skype]: https://join.skype.com/invite/bK0FvTNhQGqc
-[goodreads]: https://www.goodreads.com/user/show/22897743-sevcan-alkan
+
+[linkedin]: https://www.linkedin.com/in/mehmet-pouskoullou/
